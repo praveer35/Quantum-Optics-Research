@@ -5,12 +5,13 @@ import os
 ################################################################
 # Title:    GratingCoupler.java                                #
 # Author:   Praveer Sharan                                     #
-# Version:  10/24/2022 (v1)                                    #
+# Version:  11/30/2022 (v2)                                    #
 # Description:                                                 #
 #   A class that contains functions for generating .txt files  #
 #   from .gds files with coordinates, generating .gds files    #
 #   from .txt files, and generating .gds files from specified  #
 #   measurements about the grating coupler.                    #
+#   Update 2: Includes multilayer features                     #
 ################################################################
 
 class GratingCoupler:
